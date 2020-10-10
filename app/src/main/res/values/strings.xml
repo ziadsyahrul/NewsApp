@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="terbaru">Terbaru</string>
+    <string name="berita_utama">Berita Utama</string>
+    <string name="antarkansemangat">#AntarkanSemangat</string>
+    <string name="mostpopular">#MostPopular</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_layanan">Layanan</string>
+    <string name="menu_kategori">Kategori</string>
+    <string name="menu_video">Video</string>
+</resources>
